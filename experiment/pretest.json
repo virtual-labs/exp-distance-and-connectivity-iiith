@@ -1,18 +1,38 @@
 [
-{"question":"This is a Sample Question 1?",
+{"question":"1. Shortest distance between two points can be obtained using",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"City Block Distance",
+            "b":"Chess Board",
+            "c":"Euclidean Distance",
+            "d":"None"
           },
 "correctAnswer":"a"},
-{"question":"This is a Sample Question 2?",
+
+{"question":"2. City block distance uses",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
           },
-"correctAnswer":"c"} 
+"correctAnswer":"c"},
+
+{"question":"3. Euclidean distance uses",
+"answers":{
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
+          },
+"correctAnswer":"a"},
+
+{"question":"4. Chess board distance uses",
+"answers":{
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
+          },
+"correctAnswer":"c"}
+ 
 ]
