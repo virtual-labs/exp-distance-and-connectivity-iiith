@@ -48,7 +48,7 @@ The boundary of a region R is the set of pixels in the region that have at least
 
 **Distance Metrics:**
 
-On a discrete grid, the distance between two points a: (xa, ya) and b: (xb,yb) can be defined in a variety of ways.
+On a discrete grid, the distance between two points a: (x<sub>a</sub>, y<sub>a</sub>) and b: (x<sub>b</sub>,y<sub>b</sub>) can be defined in a variety of ways.
 
 Euclidean distance: In vector form, this is referred to as L2 norm.
 
@@ -65,7 +65,7 @@ Using these distance metrics, for a given pixel p, one can find pixels at equal 
 
 **Properties of a true distance metric**
 
-Let a, b and c be three pixels with coordinates (xa, ya), (xa, yb) and (xc, yc) respectively. A distance function D is a metric if it has the following properties:
+Let a, b and c be three pixels with coordinates (x<sub>a</sub>, y<sub>a</sub>), (xa, yb) and (xc, yc) respectively. A distance function D is a metric if it has the following properties:
 
     D(a,b) ≥ 0 and D(a,b) = 0 iff a = b
 
