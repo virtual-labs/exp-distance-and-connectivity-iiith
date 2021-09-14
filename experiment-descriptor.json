@@ -35,6 +35,20 @@
       "content-type": "simulation"
     },
     {
+      "target": "assignment.html",
+      "source": "assignment/index.html",
+      "label": "Assignment",
+      "unit-type": "task",
+      "content-type": "simulation"
+    },
+    {
+      "target": "posttest.html",
+      "source": "posttest.json",
+      "label": "Posttest",
+      "unit-type": "task",
+      "content-type": "assesment"
+    },
+    {
       "target": "references.html",
       "source": "references.md",
       "label": "References",

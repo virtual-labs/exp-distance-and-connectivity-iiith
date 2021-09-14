@@ -1,0 +1,1 @@
+The objective of this experiment is to understand the notion of connectivity and neighborhood defined for a point in an image. These concepts are useful in finding if two points are neighbours in some sense and quantify the distance between them.

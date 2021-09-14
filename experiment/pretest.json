@@ -15,24 +15,6 @@
             "c":"Mixed connectivity",
             "d":"None"
           },
-"correctAnswer":"c"},
-
-{"question":"3. Euclidean distance uses",
-"answers":{
-            "a":"4-connectivity",
-            "b":"8-connectivity",
-            "c":"Mixed connectivity",
-            "d":"None"
-          },
-"correctAnswer":"a"},
-
-{"question":"4. Chess board distance uses",
-"answers":{
-            "a":"4-connectivity",
-            "b":"8-connectivity",
-            "c":"Mixed connectivity",
-            "d":"None"
-          },
 "correctAnswer":"c"}
  
 ]
