@@ -1,18 +1,21 @@
 [
-{"question":"This is a Sample Question 1?",
+{"question":"1. Euclidean distance uses",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
           },
 "correctAnswer":"a"},
-{"question":"This is a Sample Question 2?",
+
+{"question":"2. Chess board distance uses",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
           },
-"correctAnswer":"c"} 
+"correctAnswer":"c"}
+
+
 ]
