@@ -67,8 +67,8 @@ Using these distance metrics, for a given pixel p, one can find pixels at equal 
 
 Let a, b and c be three pixels with coordinates (x<sub>a</sub>, y<sub>a</sub>), (xa, yb) and (xc, yc) respectively. A distance function D is a metric if it has the following properties:
 
-    D(a,b) ≥ 0 and D(a,b) = 0 iff a = b
+  a. D(a,b) ≥ 0 and D(a,b) = 0 iff a = b
 
-    D(a, b) = D(a, b)
+  b. D(a, b) = D(a, b)
 
-    D(a, c) ≤ D(a, b) + D(b, c)
+  c. D(a, c) ≤ D(a, b) + D(b, c)
