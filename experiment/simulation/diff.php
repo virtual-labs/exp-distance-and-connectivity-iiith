@@ -225,7 +225,7 @@ if(sing=="no") {
 args = args + "&ex="+ endx;
 args = args + "&ey="+ endy;
 }
-	} else {
+		} else {
 	
 	if(jstate == 0) {
 	    alert("First click on Mosaic and select the Input Image.");
@@ -466,37 +466,37 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 		else { echo 'images/Layer-4.jpg'; }} ?>" width="281" height="281" alt="InputLayer" /> </div>
 	  </div>
 	  
-	  <div style="position: absolute;  left: 326px;  top: 126px;  z-index: 15;" class="grid simple" onclick="pointer(event)">    <img width="278" height="278" src="diff/overlay.png"/></div> 
+	  <div style="position: absolute;  left: 326px;  top: 126px;  z-index: 15;" class="grid simple" onclick="pointer(event)">    <img width="278" height="278" src="images/overlay.png"/></div> 
 	  <div style="position: absolute;  left: 326px;  top: 126px; image-rendering: -moz-crisp-edges; z-index: 15; display:none;" class="liz simple" onclick="pointer(event)">    <img width="281" height="281" src="images/BW_liz.bmp"/></div> 
 
 <div class="advanced">
 <div class="start" style="position: absolute; left: 393px; top: 192px; z-index: 20; display:none;">
-<img src="diff/start.png"/>
+<img src="images/start.png"/>
 </div>
 
 <div class="end"   style="position: absolute; left: 463px; top: 260px; z-index: 21; display:none;">
-<img src="diff/end.png"/>
+<img src="images/end.png"/>
 </div>
 </div>
 
 <div class="simple">
 <div class="start" style="position: absolute; left: 393px; top: 192px; z-index: 20; ">
-<img class="liz" style="display:none;" src="diff/end2.png"/>
-<img class="grid" src="diff/start.png"/>
+<img class="liz" style="display:none;" src="images/end2.png"/>
+<img class="grid" src="images/start.png"/>
 </div>
 
 <div class="end"   style="position: absolute; left: 463px; top: 260px; z-index: 21;">
-<img src="diff/end.png"/>
+<img src="images/end.png"/>
 </div>
 </div>
 
     <!-- This is 'TopBar_jpg' -->
-    <div id="Layer-3" class="TopBar_jpg"  >
-      <img src="images/Layer-3.jpg" width="894" height="96" alt="TopBar" />
+   <!-- <div id="Layer-3" class="TopBar_jpg"  >
+      <img src="images/Layer-3.jpg" width="894" height="96" alt="TopBar" />-->
       <!-- This is 'IIIT' -->
-  ,!--    <div id="Layer-6" class="IIIT"  >
-        <img src="images/iiit.png" width="100" height="70" alt="IIIT" class="pngimg" />-->
-	</div>
+  <!--    <div id="Layer-6" class="IIIT"  >
+        <img src="images/iiit.png" width="100" height="70" alt="IIIT" class="pngimg" />
+	</div>-->
 	
 		<!--	<div id="topMenu">
 			<h1 style="text-align: center;">Virtual Lab for IMAGE PROCESSING</h1>
@@ -512,10 +512,10 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 <li><a href="theory.php?exp=diff" target="_self" >Theory</a>
 </li>
 <li><a href="procedure.php?exp=diff" target="_self" >Procedure</a>
-</li>
-<li><sel><a href="diff.php" target="_self" >Experiment</a>
-</sel></li>
-<li><a href="#" target="_self" >Assessment</a>
+</li>-->
+<!--<li><sel><a href="diff.php" target="_self" >Experiment</a>
+</sel></li>-->
+<!--<li><a href="#" target="_self" >Assessment</a>
 				<ul>
 					<li><a href="quiz.php?exp=diff">Quiz</a></li>
 					<li><a href="assign.php?exp=diff">Assignment</a></li>
@@ -525,10 +525,10 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 <!--
 <li><a href="references.php?exp=diff" target="_self" >References</a>
 </li>
--->
+
 <li><a href="summary.php" target="_blank" >Summary</a>
 </li>
-</ul>
+</ul>-->
 </div>
 			</div>
 			
