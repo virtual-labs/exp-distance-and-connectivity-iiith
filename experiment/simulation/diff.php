@@ -22,13 +22,10 @@ if(isset($_GET["assess"])) {
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<script class='gtm'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W59SWTR');</script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <!-- This file was originally generated at http://psd2cssonline.com on September 16, 2010, 10:04 am -->
 <!-- psd2css Online version 1.85 -->
-
-<!--<title>Virtual Lab in Image Processing</title>-->
 
 <!-- Some META tags to help with Search Engine Optimization.  Please 
 note however that META tags are NOT a magic bullet to get your web page
@@ -225,7 +222,7 @@ if(sing=="no") {
 args = args + "&ex="+ endx;
 args = args + "&ey="+ endy;
 }
-		} else {
+	} else {
 	
 	if(jstate == 0) {
 	    alert("First click on Mosaic and select the Input Image.");
@@ -466,70 +463,63 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 		else { echo 'images/Layer-4.jpg'; }} ?>" width="281" height="281" alt="InputLayer" /> </div>
 	  </div>
 	  
-	  <div style="position: absolute;  left: 326px;  top: 126px;  z-index: 15;" class="grid simple" onclick="pointer(event)">    <img width="278" height="278" src="images/overlay.png"/></div> 
+	  <div style="position: absolute;  left: 326px;  top: 126px;  z-index: 15;" class="grid simple" onclick="pointer(event)">    <img width="278" height="278" src="diff/overlay.png"/></div> 
 	  <div style="position: absolute;  left: 326px;  top: 126px; image-rendering: -moz-crisp-edges; z-index: 15; display:none;" class="liz simple" onclick="pointer(event)">    <img width="281" height="281" src="images/BW_liz.bmp"/></div> 
 
 <div class="advanced">
 <div class="start" style="position: absolute; left: 393px; top: 192px; z-index: 20; display:none;">
-<img src="images/start.png"/>
+<img src="diff/start.png"/>
 </div>
 
 <div class="end"   style="position: absolute; left: 463px; top: 260px; z-index: 21; display:none;">
-<img src="images/end.png"/>
+<img src="diff/end.png"/>
 </div>
 </div>
 
 <div class="simple">
 <div class="start" style="position: absolute; left: 393px; top: 192px; z-index: 20; ">
-<img class="liz" style="display:none;" src="images/end2.png"/>
-<img class="grid" src="images/start.png"/>
+<img class="liz" style="display:none;" src="diff/end2.png"/>
+<img class="grid" src="diff/start.png"/>
 </div>
 
 <div class="end"   style="position: absolute; left: 463px; top: 260px; z-index: 21;">
-<img src="images/end.png"/>
+<img src="diff/end.png"/>
 </div>
 </div>
 
     <!-- This is 'TopBar_jpg' -->
-   <!-- <div id="Layer-3" class="TopBar_jpg"  >
-      <img src="images/Layer-3.jpg" width="894" height="96" alt="TopBar" />-->
+    <div id="Layer-3" class="TopBar_jpg"  >
+      <!-- <img src="images/Layer-3.jpg" width="894" height="96" alt="TopBar" /> -->
       <!-- This is 'IIIT' -->
-  <!--    <div id="Layer-6" class="IIIT"  >
+      <!-- <div id="Layer-6" class="IIIT"  >
         <img src="images/iiit.png" width="100" height="70" alt="IIIT" class="pngimg" />
-	</div>-->
+	</div> -->
 	
-		<!--	<div id="topMenu">
-			<h1 style="text-align: center;">Virtual Lab for IMAGE PROCESSING</h1>
+			<div id="topMenu">
+			<!-- <h1 style="text-align: center;">Virtual Lab for IMAGE PROCESSING</h1>
 <div class="home">
 <a onclick="confirmTo('index.html')">home</a>
-</div>
-			<div class="menu">
-<ul>
-<li><a href="objective.php?exp=diff" target="_self" >Objective</a>
-</li>
-<li><a href="intro.php?exp=diff" target="_self" >Introduction</a>
-</li>
-<li><a href="theory.php?exp=diff" target="_self" >Theory</a>
-</li>
-<li><a href="procedure.php?exp=diff" target="_self" >Procedure</a>
-</li>-->
-<!--<li><sel><a href="diff.php" target="_self" >Experiment</a>
-</sel></li>-->
-<!--<li><a href="#" target="_self" >Assessment</a>
+</div> -->
+			<!-- <div class="menu"> -->
+<!-- <ul> -->
+
+<!-- <li><sel><a href="diff.php" target="_self" >Experiment</a>
+</sel></li> -->
+<!-- <li><a href="#" target="_self" >Assessment</a>
 				<ul>
 					<li><a href="quiz.php?exp=diff">Quiz</a></li>
 					<li><a href="assign.php?exp=diff">Assignment</a></li>
 			   </ul>
 
-</li>-->
+</li> -->
 <!--
 <li><a href="references.php?exp=diff" target="_self" >References</a>
 </li>
-
-<li><a href="summary.php" target="_blank" >Summary</a>
-</li>
-</ul>-->
-</div>
+-->
+<!-- <li><a href="summary.php" target="_blank" >Summary</a>
+</li> -->
+<!-- </ul> -->
+<!-- </div> -->
 			</div>
 			
     </div>
