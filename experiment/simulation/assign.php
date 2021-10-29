@@ -37,19 +37,19 @@ at http://jquery.com
     <div id="Layer-3" class="TopBar_jpg"  >
       <!-- <img src="images/Layer-3.jpg" width="894" height="96" alt="TopBar" /> -->
       <!-- This is 'IIIT' -->
-      <!-- <div id="Layer-6" class="IIIT"  >
+<!--       <div id="Layer-6" class="IIIT"  >
         <img src="images/iiit.png" width="100" height="70" alt="IIIT" class="pngimg" />
 	</div>
-	
+ -->	
 			<div id="topMenu">
-			<h1>VIRTUAL LAB in IMAGE PROCESSING</h1>
+			<!-- <h1>VIRTUAL LAB in IMAGE PROCESSING</h1>
 <div class="home">
 <a href="index.html">home</a>
-</div>
+</div> -->
 
 			<div class="menu">
 <ul>
-<li><a href="objective.php?exp=<?php echo $exp; ?>" target="_self" >Objective</a>
+<!--<li><a href="objective.php?exp=<?php echo $exp; ?>" target="_self" >Objective</a>
 </li>
 <li><a href="intro.php?exp=<?php echo $exp; ?>" target="_self" >Introduction</a>
 </li>
@@ -63,11 +63,11 @@ at http://jquery.com
 </sel>
  -->		<!-- 		<ul>
 					<li><a href="quiz.php?exp=<?php echo $exp; ?>">Quiz</a></li> -->
-					<li><a href="assign.php?exp=<?php echo $exp; ?>">Assignment</a></li>
+					<!-- <li><a href="assign.php?exp=<?php echo $exp; ?>">Assignment</a></li> -->
 			   <!-- </ul>
 
 </li> -->
-<!-- <li><a href="references.php?exp=<?php echo $exp; ?>" target="_self" >References</a>
+<!--<li><a href="references.php?exp=<?php echo $exp; ?>" target="_self" >References</a>
 </li> -->
 </ul>
 </div>
@@ -80,6 +80,7 @@ at http://jquery.com
 <br/>
 
 Click <a href="<?php echo $exp; ?>.php?assess=<?php echo $exp; ?>1" target="_blank">here</a> to try it out.
+</div>
 </div>
 </div>
 </body>
