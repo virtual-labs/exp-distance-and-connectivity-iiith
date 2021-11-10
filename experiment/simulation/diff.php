@@ -27,6 +27,8 @@ if(isset($_GET["assess"])) {
 <!-- This file was originally generated at http://psd2cssonline.com on September 16, 2010, 10:04 am -->
 <!-- psd2css Online version 1.85 -->
 
+<!-- <title>Virtual Lab in Image Processing</title>
+ -->
 <!-- Some META tags to help with Search Engine Optimization.  Please 
 note however that META tags are NOT a magic bullet to get your web page
 to the top of search engine rankings.  They are just part of that effort.  You 
@@ -489,21 +491,19 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 
     <!-- This is 'TopBar_jpg' -->
     <div id="Layer-3" class="TopBar_jpg"  >
-
-      <!--<img src="images/Layer-3.jpg" width="894" height="96" alt="TopBar" />-->
+      <!-- <img src="images/Layer-3.jpg" width="894" height="96" alt="TopBar" /> -->
       <!-- This is 'IIIT' -->
-      <!--<div id="Layer-6" class="IIIT"  >
+      <!-- <div id="Layer-6" class="IIIT"  >
         <img src="images/iiit.png" width="100" height="70" alt="IIIT" class="pngimg" />
 	</div> -->
 	
 			<div id="topMenu">
-
-			<!-- <h1 style="text-align: center;">Virtual Lab for IMAGE PROCESSING</h1>
-<div class="home">
+			<!-- <h1 style="text-align: center;">Virtual Lab for IMAGE PROCESSING</h1> -->
+<!-- <div class="home">
 <a onclick="confirmTo('index.html')">home</a>
 </div> -->
-			<!--<div class="menu">
-<ul>-->
+			<div class="menu">
+<!-- <ul>  -->
 <!--<li><a href="objective.php?exp=diff" target="_self" >Objective</a>
 </li>
 <li><a href="intro.php?exp=diff" target="_self" >Introduction</a>
@@ -511,10 +511,10 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 <li><a href="theory.php?exp=diff" target="_self" >Theory</a>
 </li>
 <li><a href="procedure.php?exp=diff" target="_self" >Procedure</a>
-</li>-->
-<!--<li><sel><a href="diff.php" target="_self" >Experiment</a>
-</sel></li>-->
-<!--<li><a href="#" target="_self" >Assessment</a>
+</li> -->
+<!-- <li><sel><a href="diff.php" target="_self" >Experiment</a>
+</sel></li> -->
+<!-- <li><a href="#" target="_self" >Assessment</a>
 				<ul>
 					<li><a href="quiz.php?exp=diff">Quiz</a></li>
 					<li><a href="assign.php?exp=diff">Assignment</a></li>
@@ -528,8 +528,7 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 <!-- <li><a href="summary.php" target="_blank" >Summary</a>
 </li> -->
 <!-- </ul> -->
-<!-- </div> -->
-
+</div>
 			</div>
 			
     </div>
