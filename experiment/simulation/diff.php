@@ -423,8 +423,8 @@ $("#sliderContent").replaceWith('      <div id="sliderContent" class="ui-corner-
 
     <!-- This is 'Mosaic_jpg' -->
     <div id="Mosaic" class="Mosaic_jpg"  >
-      <img src="images/Mosaicdiff.png" width="513" height="513" alt="Mosaic" /></div>
-
+      <!-- <img src="images/Mosaicdiff.png" width="513" height="513" alt="Mosaic" /> -->
+    </div>
     <!-- This is 'Thumbnails_jpg' -->
 	<div id="Layer-7" class="Thumbnails_jpg"  >
       <div id="sliderContent" class="ui-corner-all">	
