@@ -1,0 +1,21 @@
+[
+{"question":"1. Euclidean distance uses",
+"answers":{
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
+          },
+"correctAnswer":"a"},
+
+{"question":"2. Chess board distance uses",
+"answers":{
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
+          },
+"correctAnswer":"c"}
+
+
+]

@@ -1,0 +1,20 @@
+[
+{"question":"1. Shortest distance between two points can be obtained using",
+"answers":{
+            "a":"City Block Distance",
+            "b":"Chess Board",
+            "c":"Euclidean Distance",
+            "d":"None"
+          },
+"correctAnswer":"a"},
+
+{"question":"2. City block distance uses",
+"answers":{
+            "a":"4-connectivity",
+            "b":"8-connectivity",
+            "c":"Mixed connectivity",
+            "d":"None"
+          },
+"correctAnswer":"c"}
+ 
+]
